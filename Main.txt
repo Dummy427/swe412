@@ -2,4 +2,6 @@ Dieser Satz ist am Server entstanden
 
 Und hier noch ein weiteres Commit
 
-Und jetzt eine lokale Änderung
+Und jetzt eine lokale Ã„nderung
+
+Wie gehe ich mit rejected um?
